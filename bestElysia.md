@@ -1,1 +1,1 @@
-bash <(curl -Ls https://raw.githubusercontent.com/bestElysia/3x-ui-backup/master/install.sh) v3.4.0
+bash <(curl -Ls https://raw.githubusercontent.com/bestElysia/3x-ui-backup/master/install.sh) v3.2.5
